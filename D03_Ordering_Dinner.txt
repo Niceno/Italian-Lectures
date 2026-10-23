@@ -1,0 +1,2482 @@
+(voice: Amy)
+
+(narration-language: en-US)
+
+Arriving and ordering dinner at La Foresteria di Banchette.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You and Cheryl-Ann arrive at La Foresteria di Banchette.
+
+Practise giving your booking name, ordering water and wine, choosing your food, and asking for the bill.
+
+First, listen to a short conversation.
+
+You do not need to repeat anything yet.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+Abbiamo prenotato un tavolo per due, a nome Niceno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+Prego, seguitemi.
+
+Questo è il vostro tavolo.
+
+Cosa vi porto da bere?
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una bottiglia di acqua frizzante, per favore.
+
+Possiamo avere la carta dei vini?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certamente.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Once you are seated, the waiter asks about your food order.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Siete pronti per ordinare?
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sì, grazie.
+
+Per me, la battuta di fassona.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+E per me, il vitello tonnato.
+
+(pause: 2)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come secondo?
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, la pancetta di maiale arrosto.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+E per me, una bistecca al sangue, per favore.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now let us build the conversation.
+
+You have just arrived.
+
+Begin with good evening and explain that you have booked a table.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: We have booked.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Abbiamo prenotato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “We have booked.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Abbiamo prenotato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “We have booked a table for two.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Abbiamo prenotato un tavolo per due.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+To give the booking name, say: Under the name Niceno.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: Under the name Niceno.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Add the name: “We have booked a table for two, under the name Niceno.”
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Abbiamo prenotato un tavolo per due, a nome Niceno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You arrive with friends.
+
+Say good evening and explain that you have booked a table for four under the name Niceno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+Abbiamo prenotato un tavolo per quattro, a nome Niceno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The waiter says: Please, follow me.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Prego, seguitemi.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Then: This is your table.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Questo è il vostro tavolo.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Thank him.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He asks what he can bring you to drink.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Cosa vi porto da bere?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Sparkling water.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Acqua frizzante.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: A bottle of sparkling water.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una bottiglia di acqua frizzante.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Order a bottle of sparkling water politely.
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una bottiglia di acqua frizzante, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: The wine list.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La carta dei vini.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Can we have.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Possiamo avere?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask: “Can we have the wine list?”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Possiamo avere la carta dei vini?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now order the water and ask for the wine list.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una bottiglia di acqua frizzante, per favore.
+
+Possiamo avere la carta dei vini?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You notice some small bottles displayed on the shelves.
+
+First, learn how to ask whether you can choose one.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: A small bottle.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una bottiglietta.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: On the shelf.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sullo scaffale.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Can I choose.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Posso scegliere?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask: “Can I choose a small bottle from the shelf?”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Posso scegliere una bottiglietta dallo scaffale?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+If you mean that you would like to take a bottle yourself, ask permission.
+
+Listen to the complete question.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Posso prendere una di quelle bottigliette sullo scaffale?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: One of those small bottles.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una di quelle bottigliette.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Can I take one of those small bottles?”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Posso prendere una di quelle bottigliette?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now add where they are: “Can I take one of those small bottles on the shelf?”
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Posso prendere una di quelle bottigliette sullo scaffale?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Here is one possible reply.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo, faccia pure.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+That means: Certainly, go ahead.
+
+Here is another possible reply.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+La prendo io per voi.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+That means: I will get it for you.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now return to the simpler alternative: ask for the wine list.
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Possiamo avere la carta dei vini?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Your drinks are arranged.
+
+Now the waiter brings the menu.
+
+Practise choosing your food.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The waiter brings the menu.
+
+He asks whether you are ready to order.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Siete pronti per ordinare?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Yes, thank you.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sì, grazie.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+If you need a little more time, you can say: Just a moment, please.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Just a moment, please.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un momento, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You are not quite ready.
+
+Ask for a moment.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Siete pronti per ordinare?
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un momento, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now you are ready.
+
+You do not need to order every course.
+
+Practise the alternatives so that each of you can choose what you want.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: For me.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+For a starter, you might choose battuta di fassona: finely chopped raw Piedmontese beef.
+
+Listen to the name.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Battuta di fassona.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the name of the dish.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Battuta di fassona.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Order it: “For me, the battuta di fassona.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, la battuta di fassona.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Another starter is vitello tonnato: veal with tuna sauce.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vitello tonnato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the name of this starter.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vitello tonnato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now order it: “For me, the vitello tonnato.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, il vitello tonnato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The waiter asks what you would like to start with.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Cosa prendete per cominciare?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You would like the battuta di fassona.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Cosa prendete per cominciare?
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, la battuta di fassona.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Cheryl-Ann chooses the other starter.
+
+Answer as Cheryl-Ann.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “And for me, the vitello tonnato.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+E per me, il vitello tonnato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now switch dishes: “For me, the vitello tonnato.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, il vitello tonnato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+For the first course, one option is risotto with porcini mushrooms.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Risotto ai funghi porcini.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: With porcini mushrooms.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ai funghi porcini.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the full dish: “Risotto with porcini mushrooms.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Risotto ai funghi porcini.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Order it: “For me, the risotto with porcini mushrooms.”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, il risotto ai funghi porcini.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Another option is tajarin, the fine Piedmontese egg pasta.
+
+Here we will order it with meat sauce.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tajarin al ragù.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Tajarin with meat sauce.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tajarin al ragù.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Order the pasta: “For me, the tajarin with meat sauce.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, i tajarin al ragù.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The waiter asks: And for the first course? Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come primo?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Choose the risotto with porcini mushrooms.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come primo?
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, il risotto ai funghi porcini.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+On another evening, choose the tajarin with meat sauce.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come primo?
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, i tajarin al ragù.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You can also skip the first course and go straight to the main course.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: For me, just a main course.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, solo un secondo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “For me, just a main course.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, solo un secondo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+For the main course, you would like roast pork belly.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Pancetta di maiale arrosto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Roast pork belly.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Pancetta di maiale arrosto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Order it: “For me, the roast pork belly.”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, la pancetta di maiale arrosto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Cheryl-Ann might choose a steak.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una bistecca.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “For me, a steak.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, una bistecca.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The waiter asks how you would like it cooked.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Come la desidera?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Rare.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Al sangue.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Rare.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Al sangue.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You want the steak rare.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Come la desidera?
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Al sangue, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now order it all at once: “For me, a rare steak, please.”
+
+(pause: 11)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, una bistecca al sangue, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The waiter may also ask: How would you like the steak? Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Come vuole la bistecca?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask for it rare.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Come vuole la bistecca?
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Al sangue, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Another option is a T-bone steak to share.
+
+Before ordering, you would like to know its weight and whether it is enough for two people.
+
+Listen to this short exchange.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Avete una T-bone?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, certo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Quanto pesa?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Pesa circa un chilo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene per due persone?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, va bene per due.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora prendiamo una T-bone da dividere in due, al sangue, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Do you have a T-bone?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Avete una T-bone?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Do you have a T-bone?”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Avete una T-bone?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+To ask about its size, the useful question here is: How much does it weigh?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: How much does it weigh?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Quanto pesa?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “How much does it weigh?”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Quanto pesa?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask whether they have a T-bone steak.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come secondo?
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Avete una T-bone?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, certo.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask how much it weighs.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Quanto pesa?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Pesa circa un chilo.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+That means: It weighs about a kilo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: About a kilo.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Circa un chilo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “About a kilo.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Circa un chilo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the complete answer: “It weighs about a kilo.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Pesa circa un chilo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Is it enough for two people?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene per due persone?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Is it enough for two people?”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene per due persone?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The steak weighs about a kilo.
+
+Ask whether it is enough for two people.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Pesa circa un chilo.
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene per due persone?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, va bene per due.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You hear: Yes, it is enough for two.
+
+Now ask whether you can share it.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Can we share it?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Possiamo dividerla?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Can we share it?”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Possiamo dividerla?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask again if you can share the steak.
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Possiamo dividerla?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo, potete dividerla.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The waiter says: Certainly, you can share it.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: To share between two.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Da dividere in due.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “To share between two.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Da dividere in due.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “A T-bone to share between two.”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una T-bone da dividere in due.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Recall how you like your steak.
+
+Say: “Rare, please.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Al sangue, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Then we will have.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora prendiamo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Then we will have.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora prendiamo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Then we will have a T-bone to share between two.”
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora prendiamo una T-bone da dividere in due.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Add how you want it cooked: “Then we will have a T-bone to share between two, rare, please.”
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora prendiamo una T-bone da dividere in due, al sangue, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Before deciding, bring back both questions: How much does it weigh? Is it enough for two people?
+
+(pause: 13)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Quanto pesa? Va bene per due persone?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now return to your original choice: roast pork belly.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come secondo?
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, la pancetta di maiale arrosto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+And now order the rare steak again.
+
+(pause: 11)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, una bistecca al sangue, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Recall the starter with tuna sauce.
+
+Order it.
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, il vitello tonnato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+At the end of the meal, the waiter asks if you would like anything else.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Desiderate altro?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: No, thank you.
+
+That is all.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+No, grazie.
+
+Va bene così.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say that you do not want anything else.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Desiderate altro?
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+No, grazie.
+
+Va bene così.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: The bill, please.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il conto, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask for the bill.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il conto, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now practise the whole restaurant visit with less help.
+
+Imagine arriving with friends.
+
+You have booked a table for four under the name Niceno.
+
+Answer during the pauses.
+
+A shorter correct answer is fine, too.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+Abbiamo prenotato un tavolo per quattro, a nome Niceno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Prego, seguitemi.
+
+Questo è il vostro tavolo.
+
+(pause: 5)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Cosa vi porto da bere?
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una bottiglia di acqua frizzante, per favore.
+
+Possiamo avere la carta dei vini?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Instead of choosing from the list, ask whether you can take one of the small bottles on the shelf.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Posso prendere una di quelle bottigliette sullo scaffale?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo, faccia pure.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now order your food.
+
+First choose the battuta di fassona, then give Cheryl-Ann’s order: the vitello tonnato.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Cosa prendete per cominciare?
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, la battuta di fassona.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now answer as Cheryl-Ann.
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+E per me, il vitello tonnato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Choose the risotto for one person and the tajarin for the other.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come primo?
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, il risotto ai funghi porcini.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now give the other person's order.
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+E per me, i tajarin al ragù.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+For the main courses, one of you chooses roast pork belly and the other a rare steak.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come secondo?
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per me, la pancetta di maiale arrosto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now order the steak for the other person.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+E per me, una bistecca al sangue, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now imagine an alternative main-course order.
+
+Instead of separate main courses, you are considering one T-bone to share.
+
+Ask whether they have one.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E come secondo?
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Avete una T-bone?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, certo.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask how much it weighs.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Quanto pesa?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Pesa circa un chilo.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask whether it is enough for two people.
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene per due persone?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, va bene per due.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Check whether you can share it.
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Possiamo dividerla?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Order one T-bone to share between two, rare, please.
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora prendiamo una T-bone da dividere in due, al sangue, per favore.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Desiderate altro?
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+No, grazie.
+
+Va bene così.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Later, ask for the bill.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il conto, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Finish politely: “Thank you.
+
+Goodbye.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie.
+
+Arrivederci.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+End of Arriving and ordering dinner at La Foresteria di Banchette.
+
+(pause: 2)
+

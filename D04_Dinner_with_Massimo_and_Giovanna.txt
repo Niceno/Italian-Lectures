@@ -1,0 +1,2306 @@
+(voice: Amy)
+
+(narration-language: en-US)
+
+An invitation to dinner with Massimo and Giovanna.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Cheryl-Ann meets Massimo in Callabiana.
+
+He invites both of you to dinner at the home he shares with his mother, Giovanna.
+
+In this lesson, answer as Cheryl-Ann.
+
+You will arrange a possible evening, ask about bringing Mary, and talk about Giovanna’s cooking.
+
+First, listen.
+
+You do not need to repeat anything yet.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Ciao Cheryl-Ann! Lunedì prossimo avete già programmi?
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ciao Massimo! Sì, lunedì abbiamo già un impegno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E martedì? Vi va di venire a cena da noi?
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene, ma devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo, fammi sapere.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La nostra amica Mary è qui con noi.
+
+Può venire anche lei?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Ma certo! Portate anche Mary!
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie! Che cosa prepara tua mamma?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+La bagna cauda, la lingua al verde, il vitello tonnato e magari anche la finanziera.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Adoro la cucina di Giovanna! Ma con più di tre portate non sopravviviamo!
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Va bene, lo dico a mia mamma.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Portiamo qualcosa? Magari un dolce?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+No, non portate niente.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ci sarà anche tuo fratello Alberto?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, ci sarà anche lui.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Bene! Sento Bojan e ti faccio sapere.
+
+Grazie per l’invito!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now let us build the conversation.
+
+You know Massimo, so use the familiar form when speaking to him.
+
+He uses the plural when he asks about both of you.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Greet Massimo.
+
+(pause: 5)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ciao Massimo!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He asks whether you already have plans for this coming Monday.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Lunedì prossimo avete già programmi?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: This coming Monday.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lunedì prossimo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “This coming Monday”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lunedì prossimo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You already have something arranged.
+
+Say: We already have a commitment.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: We already have a commitment.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Abbiamo già un impegno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “We already have a commitment”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Abbiamo già un impegno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now specify the day: “On Monday, we already have a commitment.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lunedì abbiamo già un impegno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Answer Massimo: Yes, on Monday we already have a commitment.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Lunedì prossimo avete già programmi?
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sì, lunedì abbiamo già un impegno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Massimo suggests another day.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E martedì?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Tuesday.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Tuesday”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He invites you to dinner at their place.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Vi va di venire a cena da noi?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+That means: Would you like to come to dinner at our place? Their place is the home Massimo shares with Giovanna.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: To dinner at our place.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A cena da noi.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “To dinner at our place”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A cena da noi.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the invitation: “Would you like to come to dinner at our place?”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vi va di venire a cena da noi?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You think Tuesday will work, but you want to check with Bojan before confirming.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Tuesday should be fine.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Tuesday should be fine”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Answer Massimo: “Tuesday should be fine.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: I have to check with Bojan first.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “I have to check with Bojan first”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Here, sentire means to speak to someone or check with them.
+
+You are going to check with Bojan before you commit.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “But I have to check with Bojan first.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ma devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Put it together: “Tuesday should be fine, but I have to check with Bojan first.”
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene, ma devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Massimo suggests Tuesday.
+
+Say that Tuesday should be fine, but you need to check with Bojan first.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E martedì? Vi va di venire a cena da noi?
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene, ma devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo, fammi sapere.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He says: Of course, let me know.
+
+You can reply: I will let you know.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: I will let you know.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ti faccio sapere.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “I will let you know”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ti faccio sapere.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “I will check with Bojan and let you know.”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sento Bojan e ti faccio sapere.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now recall why Monday does not work.
+
+Say: “On Monday, we already have a commitment.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lunedì abbiamo già un impegno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Give the possible alternative without confirming yet.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E martedì?
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene, ma devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+There is one more person to mention.
+
+Your friend Mary is staying with you.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Our friend Mary.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La nostra amica Mary.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Our friend Mary”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La nostra amica Mary.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Is here with us.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+È qui con noi.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Is here with us”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+È qui con noi.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Our friend Mary is here with us.”
+
+(pause: 11)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La nostra amica Mary è qui con noi.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Can she come too?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Può venire anche lei?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Can she come too?”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Può venire anche lei?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Lei refers to Mary.
+
+You are asking whether she can join you for dinner.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Tell Massimo about Mary and ask if she can come too.
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La nostra amica Mary è qui con noi.
+
+Può venire anche lei?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Ma certo! Portate anche Mary!
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Massimo says: Of course! Bring Mary too.
+
+Thank him.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Thank you, that is very kind.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie, molto gentile.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Mary is with you.
+
+Ask whether she can come too.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Vi va di venire a cena da noi?
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La nostra amica Mary è qui con noi.
+
+Può venire anche lei?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo, volentieri!
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He says: Of course, gladly.
+
+Before we discuss the food, bring back the arrangements.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Tuesday should be fine.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now add: “But I have to check with Bojan first.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ma devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask once more whether Mary can come too.
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Può venire anche lei?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You are curious about dinner.
+
+Ask what his mother is preparing.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Your mother.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tua mamma.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Your mother”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tua mamma.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: What is your mother preparing?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Che cosa prepara tua mamma?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “What is your mother preparing?”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Che cosa prepara tua mamma?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask Massimo what his mother is preparing.
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Che cosa prepara tua mamma?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Mia mamma prepara la bagna cauda.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He says: My mother is preparing bagna cauda.
+
+Focus on recognising the dish names.
+
+You do not need to memorise a recipe.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: My mother.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mia mamma.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “My mother”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mia mamma.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the name of the first dish.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La bagna cauda.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the name of the dish.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La bagna cauda.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Poi la lingua al verde.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Then comes tongue in green sauce.
+
+In Italian, listen for lingua al verde.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lingua al verde.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Tongue in green sauce.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lingua al verde.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E il vitello tonnato.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He also mentions vitello tonnato, veal with tuna sauce.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vitello tonnato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the name of this dish.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vitello tonnato.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E magari anche la finanziera.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+And perhaps finanziera as well.
+
+For now, just recognise the name.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La finanziera.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the name of the dish.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La finanziera.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now hear the menu again.
+
+You are listening, not ordering all these dishes yourself.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+La bagna cauda, la lingua al verde, il vitello tonnato e magari anche la finanziera.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+That sounds wonderful, but also rather a lot.
+
+First, compliment Giovanna’s cooking.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: I love Giovanna’s cooking.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Adoro la cucina di Giovanna.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “I love Giovanna’s cooking”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Adoro la cucina di Giovanna.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Tell Massimo that you love Giovanna’s cooking.
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Adoro la cucina di Giovanna.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now add your friendly joke about surviving more than three courses.
+
+We will build it in small steps.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Three courses.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tre portate.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Three courses”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tre portate.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: More than three courses.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Più di tre portate.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “More than three courses”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Più di tre portate.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: We will not survive.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non sopravviviamo!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “We will not survive”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non sopravviviamo!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “With more than three courses, we will not survive!”
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Con più di tre portate non sopravviviamo!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now add the compliment: “I love Giovanna’s cooking, but with more than three courses we will not survive!”
+
+(pause: 17)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Adoro la cucina di Giovanna, ma con più di tre portate non sopravviviamo!
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Va bene, lo dico a mia mamma.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He says: All right, I will tell my mother.
+
+You can also make the request more gently, without the joke.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Do not make too many things, though.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non fate troppe cose, però.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Do not make too many things, though”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non fate troppe cose, però.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Fate is plural here.
+
+You are including both Massimo and Giovanna in your request.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Three courses are more than enough.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tre portate bastano e avanzano.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Three courses are more than enough”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tre portate bastano e avanzano.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Do not make too many things, though.
+
+Three courses are more than enough.”
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non fate troppe cose, però.
+
+Tre portate bastano e avanzano.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Massimo tells you what Giovanna has in mind.
+
+Compliment her cooking and make your three-course joke.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Mia mamma prepara la bagna cauda, la lingua al verde, il vitello tonnato e la finanziera.
+
+(pause: 17)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Adoro la cucina di Giovanna, ma con più di tre portate non sopravviviamo!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now give the gentler version: “Three courses are more than enough.”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tre portate bastano e avanzano.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Return briefly to your guest.
+
+Tell Massimo again that your friend Mary is with you.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Our friend Mary is here with us.”
+
+(pause: 11)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La nostra amica Mary è qui con noi.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You would like to contribute something to dinner.
+
+Ask whether you should bring anything.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Shall we bring something?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Portiamo qualcosa?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Shall we bring something?”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Portiamo qualcosa?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask whether you should bring something.
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Portiamo qualcosa?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Perhaps a dessert.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Magari un dolce.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Perhaps a dessert”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Magari un dolce.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Un dolce can mean a dessert or a cake.
+
+It is a useful general word when offering to bring something sweet.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask: “Shall we bring something? Perhaps a dessert?”
+
+(pause: 11)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Portiamo qualcosa? Magari un dolce?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+No, non portate niente.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+He says: No, do not bring anything.
+
+Listen once more.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Non portate niente.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Accept his answer: “All right, thank you.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene, grazie.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Offer to bring something, perhaps a dessert.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Mia mamma pensa a tutto.
+
+(pause: 11)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Portiamo qualcosa? Magari un dolce?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+No, grazie.
+
+Non portate niente.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Thank him.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie, molto gentile.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+One more question: will his brother Alberto be there too?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Your brother Alberto.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tuo fratello Alberto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Your brother Alberto”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tuo fratello Alberto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Will he be there too?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ci sarà anche lui?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Will he be there too?”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ci sarà anche lui?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now name the person instead of saying he.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask: “Will your brother Alberto be there too?”
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ci sarà anche tuo fratello Alberto?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, ci sarà anche lui.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+In this practice conversation, Massimo says: Yes, he will be there too.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask again whether his brother Alberto will be there too.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ci sarà anche tuo fratello Alberto?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Thank you for the invitation.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie per l’invito!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Thank you for the invitation”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie per l’invito!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Remember that Tuesday still needs to be checked with Bojan.
+
+Finish without making a definite promise yet.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “I will check with Bojan and let you know.
+
+Thank you for the invitation!”
+
+(pause: 14)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sento Bojan e ti faccio sapere.
+
+Grazie per l’invito!
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now have the whole conversation.
+
+You are Cheryl-Ann, speaking with Massimo.
+
+Monday is already booked.
+
+Tuesday should work, but you need to check with Bojan.
+
+Mary is staying with you.
+
+Speak during the pauses.
+
+A shorter correct answer is fine, too.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Ciao Cheryl-Ann! Lunedì prossimo avete già programmi?
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ciao Massimo! Sì, lunedì abbiamo già un impegno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+E martedì? Vi va di venire a cena da noi?
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Martedì dovrebbe andare bene, ma devo prima sentire Bojan.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo, fammi sapere.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Tell him about Mary and ask if she can come too.
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La nostra amica Mary è qui con noi.
+
+Può venire anche lei?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Ma certo! Portate anche Mary!
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Thank him and ask what his mother is preparing.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie! Che cosa prepara tua mamma?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+La bagna cauda, la lingua al verde, il vitello tonnato e magari anche la finanziera.
+
+(pause: 17)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Adoro la cucina di Giovanna, ma con più di tre portate non sopravviviamo!
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Va bene, lo dico a mia mamma.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Offer to bring something, perhaps a dessert.
+
+(pause: 11)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Portiamo qualcosa? Magari un dolce?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+No, non portate niente.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask whether his brother Alberto will be there too.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ci sarà anche tuo fratello Alberto?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, ci sarà anche lui.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Finish by saying you will check with Bojan and let him know.
+
+Thank him for the invitation.
+
+(pause: 14)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sento Bojan e ti faccio sapere.
+
+Grazie per l’invito!
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Grazie a voi! Ci sentiamo presto.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+One last change: use the gentle request instead of the joke.
+
+Ask them not to make too many things and say that three courses are more than enough.
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non fate troppe cose, però.
+
+Tre portate bastano e avanzano.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+End of An invitation to dinner with Massimo and Giovanna.
+
+(pause: 2)
+

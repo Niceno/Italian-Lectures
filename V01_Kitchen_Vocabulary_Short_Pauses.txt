@@ -1,0 +1,3236 @@
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Vocabulary lesson.
+
+In the kitchen.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Practise kitchen utensils and tableware.
+
+There are no dialogues in this lesson.
+
+For each item, listen to the Italian with its article.
+
+Then say it yourself during the pause.
+
+You will also practise one short example sentence.
+
+Earlier words will return in a different order.
+
+Try to answer before you hear the Italian.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+A quick guide to the sentence patterns: Mi serve means I need one item.
+
+È means is.
+
+Sono means are.
+
+Sul tavolo means on the table.
+
+Other words in the examples will become familiar through repetition.
+
+Focus on the kitchen objects and their articles.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+First, cutlery: a knife, a fork, a spoon, and a teaspoon.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The knife.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coltello.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The knife.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coltello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: I need a knife.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un coltello.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: I need a knife.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un coltello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The fork.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La forchetta.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The fork.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La forchetta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The fork is on the table.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La forchetta è sul tavolo.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The fork is on the table.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La forchetta è sul tavolo.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The spoon.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaio.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The spoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The spoon is clean.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaio è pulito.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The spoon is clean.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaio è pulito.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The teaspoon.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaino.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The teaspoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: I need a teaspoon.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un cucchiaino.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: I need a teaspoon.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un cucchiaino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The spoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The knife.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coltello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The teaspoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The fork.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La forchetta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the plural: The knives.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I coltelli.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The knives.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I coltelli.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the plural: The forks.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forchette.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The forks.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forchette.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the plural: The spoons.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I cucchiai.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The spoons.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I cucchiai.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Recall the example: The fork is on the table.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La forchetta è sul tavolo.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now plates, glasses, cups, and bowls.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The plate.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il piatto.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The plate.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il piatto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The plate is white.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il piatto è bianco.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The plate is white.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il piatto è bianco.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The drinking glass.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bicchiere.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The drinking glass.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bicchiere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The glass is empty.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bicchiere è vuoto.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The glass is empty.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bicchiere è vuoto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The cup.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tazza.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The cup.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tazza.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The cup is full.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tazza è piena.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The cup is full.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tazza è piena.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The bowl.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La ciotola.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The bowl.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La ciotola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The bowl is large.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La ciotola è grande.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The bowl is large.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La ciotola è grande.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The cup.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tazza.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The plate.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il piatto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The bowl.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La ciotola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The drinking glass.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bicchiere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: I need a knife.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un coltello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the plural: The drinking glasses.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bicchieri.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The drinking glasses.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bicchieri.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Recall the example: The glass is empty.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bicchiere è vuoto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the cookware: a pot, a frying pan, a lid, and a baking tray.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The cooking pot.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pentola.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The cooking pot.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pentola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The broth is in the pot.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il brodo è nella pentola.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The broth is in the pot.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il brodo è nella pentola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The frying pan.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La padella.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The frying pan.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La padella.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The frying pan is hot.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La padella è calda.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The frying pan is hot.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La padella è calda.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The lid.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coperchio.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The lid.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coperchio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: Put the lid on the pot.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Metti il coperchio sulla pentola.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: Put the lid on the pot.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Metti il coperchio sulla pentola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+For a tray that goes in the oven, use teglia.
+
+We will learn a different word for a serving tray.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The baking tray.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La teglia.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The baking tray.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La teglia.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The baking tray is in the oven.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La teglia è nel forno.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The baking tray is in the oven.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La teglia è nel forno.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The lid.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coperchio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The cooking pot.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pentola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The baking tray.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La teglia.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The frying pan.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La padella.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The plate is white.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il piatto è bianco.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the plural: The frying pans.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le padelle.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The frying pans.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le padelle.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the plural: The baking trays.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le teglie.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The baking trays.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le teglie.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Recall the example: The frying pan is hot.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La padella è calda.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now serving and food preparation: a tray, a chopping board, a ladle, and a spatula.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+For a tray used to carry glasses or serve food, use vassoio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The serving tray.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vassoio.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The serving tray.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vassoio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The glasses are on the tray.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bicchieri sono sul vassoio.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The glasses are on the tray.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bicchieri sono sul vassoio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The chopping board.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tagliere.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The chopping board.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tagliere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The knife is on the chopping board.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coltello è sul tagliere.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The knife is on the chopping board.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coltello è sul tagliere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The ladle.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il mestolo.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The ladle.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il mestolo.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: I need a ladle.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un mestolo.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: I need a ladle.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un mestolo.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The spatula.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La spatola.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The spatula.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La spatola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: Pass me the spatula, please.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Passami la spatola, per favore.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: Pass me the spatula, please.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Passami la spatola, per favore.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The ladle.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il mestolo.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The serving tray.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vassoio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The spatula.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La spatola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The chopping board.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tagliere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The broth is in the pot.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il brodo è nella pentola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Recall the example: The knife is on the chopping board.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coltello è sul tagliere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now draining, straining, grating, and peeling.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Notice the article lo in lo scolapasta.
+
+This is the colander used to drain pasta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The colander.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scolapasta.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The colander.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scolapasta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The colander is in the sink.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scolapasta è nel lavello.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The colander is in the sink.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scolapasta è nel lavello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+A colino is a small strainer, for example for straining a little broth.
+
+Keep it separate from the larger scolapasta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The small strainer.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il colino.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The small strainer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il colino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: I need a small strainer.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un colino.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: I need a small strainer.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un colino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The grater.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La grattugia.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The grater.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La grattugia.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The grater is clean.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La grattugia è pulita.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The grater is clean.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La grattugia è pulita.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The vegetable peeler.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pelapatate.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The vegetable peeler.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pelapatate.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: Where is the vegetable peeler?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Dov’è il pelapatate?
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: Where is the vegetable peeler?
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Dov’è il pelapatate?
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The grater.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La grattugia.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The colander.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scolapasta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The vegetable peeler.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pelapatate.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The small strainer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il colino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The glasses are on the tray.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bicchieri sono sul vassoio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+This noun keeps the same form in the plural.
+
+Listen to the article.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the plural: The colanders.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli scolapasta.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The colanders.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli scolapasta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Recall the example: I need a small strainer.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un colino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Finally, opening bottles and tins, cutting, and drying.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The corkscrew.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavatappi.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The corkscrew.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavatappi.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: Where is the corkscrew?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Dov’è il cavatappi?
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: Where is the corkscrew?
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Dov’è il cavatappi?
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The tin opener.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’apriscatole.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The tin opener.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’apriscatole.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: I need a tin opener.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un apriscatole.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: I need a tin opener.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un apriscatole.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The usual word for scissors is plural in Italian, too.
+
+Learn the whole phrase: le forbici da cucina.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The kitchen scissors.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forbici da cucina.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The kitchen scissors.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forbici da cucina.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The kitchen scissors are in the drawer.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forbici da cucina sono nel cassetto.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The kitchen scissors are in the drawer.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forbici da cucina sono nel cassetto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+This is a cloth for drying dishes: a tea towel or dish towel.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Listen: The tea towel.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo strofinaccio.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The tea towel.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo strofinaccio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Example: The tea towel is dry.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo strofinaccio è asciutto.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now say: The tea towel is dry.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo strofinaccio è asciutto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The kitchen scissors.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forbici da cucina.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The corkscrew.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavatappi.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The tea towel.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo strofinaccio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The tin opener.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’apriscatole.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The colander is in the sink.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scolapasta è nel lavello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+This noun keeps the same form in the plural.
+
+Listen to the article.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Now the plural: The corkscrews.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I cavatappi.
+
+(pause: 2)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Say: The corkscrews.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I cavatappi.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Recall the example: I need a tin opener.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un apriscatole.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Final word review.
+
+The order is mixed.
+
+Give the Italian with its article.
+
+This is recall practice, so there is no Italian model until after your pause.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The drinking glass.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bicchiere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The knife.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coltello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The frying pan.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La padella.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The ladle.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il mestolo.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The cup.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tazza.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The corkscrew.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavatappi.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The baking tray.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La teglia.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The fork.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La forchetta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The grater.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La grattugia.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The bowl.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La ciotola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The colander.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scolapasta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The teaspoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The serving tray.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vassoio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The kitchen scissors.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forbici da cucina.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The cooking pot.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pentola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The spatula.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La spatola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The tin opener.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’apriscatole.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The plate.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il piatto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The vegetable peeler.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pelapatate.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The lid.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coperchio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The tea towel.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo strofinaccio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The spoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cucchiaio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The small strainer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il colino.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The chopping board.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tagliere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Finish with short sentences.
+
+You have heard each one already.
+
+Say the Italian during the pause.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+I need a knife.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mi serve un coltello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The glass is empty.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bicchiere è vuoto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The broth is in the pot.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il brodo è nella pentola.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The baking tray is in the oven.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La teglia è nel forno.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The glasses are on the tray.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bicchieri sono sul vassoio.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The knife is on the chopping board.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coltello è sul tagliere.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The colander is in the sink.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scolapasta è nel lavello.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+Where is the vegetable peeler?
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Dov’è il pelapatate?
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The kitchen scissors are in the drawer.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le forbici da cucina sono nel cassetto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The tea towel is dry.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo strofinaccio è asciutto.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+One last plural review.
+
+Listen to the English, then give the Italian.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The spoons.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I cucchiai.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The colanders.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli scolapasta.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The corkscrews.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I cavatappi.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+The drinking glasses.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bicchieri.
+
+(pause: 1)
+
+(voice: Joanna)
+
+(narration-language: en-US)
+
+End of Kitchen vocabulary.
+
+(pause: 2)
+

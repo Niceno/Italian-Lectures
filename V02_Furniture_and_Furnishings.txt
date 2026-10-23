@@ -1,0 +1,3236 @@
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Vocabulary lesson.
+
+Furniture and furnishings.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Practise furniture and the things that make a house comfortable.
+
+There are no dialogues in this lesson.
+
+For each item, listen to the Italian with its article.
+
+Then say it yourself during the pause.
+
+You will also practise one short example sentence.
+
+Earlier words will return in a different order.
+
+Try to answer before you hear the Italian.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A quick guide to the sentence patterns: È means is, as in the chair is comfortable.
+
+Sul means on the, with a masculine singular noun.
+
+Sotto means under.
+
+Accanto al letto means beside the bed.
+
+Other words in the examples will become familiar through repetition.
+
+Focus on the household objects and their articles.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+First, things to sit on and a table: a chair, a stool, a bench, and a table.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The table.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The table is large.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolo è grande.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The table is large.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolo è grande.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The chair.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La sedia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The chair.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La sedia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The chair is comfortable.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La sedia è comoda.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The chair is comfortable.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La sedia è comoda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The stool.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo sgabello.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The stool.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo sgabello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The stool is high.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo sgabello è alto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The stool is high.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo sgabello è alto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The bench.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La panca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The bench.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La panca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The bench is in the garden.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La panca è in giardino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bench is in the garden.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La panca è in giardino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The stool.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo sgabello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bench.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La panca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chair.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La sedia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The tables.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I tavoli.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The tables.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I tavoli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The chairs.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le sedie.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The chairs.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le sedie.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The stools.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli sgabelli.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The stools.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli sgabelli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Recall the example: The chair is comfortable.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La sedia è comoda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the living room: a sofa, an armchair, a coffee table, and a sideboard.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The sofa.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il divano.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The sofa.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il divano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The sofa is grey.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il divano è grigio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The sofa is grey.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il divano è grigio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The armchair.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La poltrona.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The armchair.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La poltrona.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The armchair is comfortable.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La poltrona è comoda.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The armchair is comfortable.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La poltrona è comoda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The coffee table.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The coffee table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The coffee table is low.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolino è basso.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The coffee table is low.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolino è basso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The sideboard.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La credenza.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The sideboard.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La credenza.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The sideboard is full.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La credenza è piena.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The sideboard is full.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La credenza è piena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The coffee table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sofa.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il divano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sideboard.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La credenza.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The armchair.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La poltrona.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The table is large.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolo è grande.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The armchairs.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le poltrone.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The armchairs.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le poltrone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Recall the example: The armchair is comfortable.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La poltrona è comoda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the bedroom: a bed, a mattress, a pillow, and a blanket.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The bed.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il letto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The bed.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il letto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The bed is large.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il letto è grande.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bed is large.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il letto è grande.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The mattress.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il materasso.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The mattress.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il materasso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The mattress is comfortable.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il materasso è comodo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The mattress is comfortable.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il materasso è comodo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The pillow.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The pillow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The pillow is soft.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino è morbido.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The pillow is soft.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino è morbido.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A coperta is a blanket that you put on a bed.
+
+Listen for the feminine article la, and learn it together with the noun.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The blanket.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La coperta.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The blanket.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La coperta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The blanket is on the bed.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La coperta è sul letto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The blanket is on the bed.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La coperta è sul letto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The pillow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bed.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il letto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The blanket.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La coperta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The mattress.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il materasso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The sofa is grey.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il divano è grigio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The mattresses.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I materassi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The mattresses.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I materassi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The blankets.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le coperte.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The blankets.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le coperte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Recall the example: The mattress is comfortable.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il materasso è comodo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now storage and small furniture: a wardrobe, a chest of drawers, a bedside table, and a shelf.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A wardrobe is armadio; learn the article together with it, as l’armadio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The wardrobe.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’armadio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The wardrobe.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’armadio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The wardrobe is open.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’armadio è aperto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The wardrobe is open.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’armadio è aperto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The chest of drawers.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cassettiera.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The chest of drawers.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cassettiera.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The chest of drawers is white.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cassettiera è bianca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The chest of drawers is white.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cassettiera è bianca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The bedside table.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il comodino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The bedside table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il comodino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The bedside table is beside the bed.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il comodino è accanto al letto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bedside table is beside the bed.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il comodino è accanto al letto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The shelf.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ripiano.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The shelf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ripiano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The shelf is empty.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ripiano è vuoto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The shelf is empty.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ripiano è vuoto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bedside table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il comodino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wardrobe.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’armadio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The shelf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ripiano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chest of drawers.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cassettiera.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The bed is large.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il letto è grande.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Recall the example: The chest of drawers is white.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cassettiera è bianca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now books, work, storage, and reflections: a bookcase, a desk, a drawer, and a mirror.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A libreria is a bookcase, used for keeping your books.
+
+It is a feminine noun, so the article is la.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The bookcase.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La libreria.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The bookcase.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La libreria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The bookcase is full.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La libreria è piena.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bookcase is full.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La libreria è piena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A scrivania is the desk you sit at to work or write.
+
+Keep this separate from tavolo, the general word for a table.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The desk.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrivania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The desk.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrivania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The desk is in the bedroom.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrivania è in camera.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The desk is in the bedroom.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrivania è in camera.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The drawer.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cassetto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The drawer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cassetto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The drawer is closed.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cassetto è chiuso.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The drawer is closed.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cassetto è chiuso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The mirror.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo specchio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The mirror.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo specchio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The mirror is clean.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo specchio è pulito.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The mirror is clean.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo specchio è pulito.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The drawer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cassetto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bookcase.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La libreria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The mirror.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo specchio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The desk.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrivania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The wardrobe is open.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’armadio è aperto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The plural of la libreria is le librerie.
+
+Listen for the change in both the article and the ending.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The bookcases.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le librerie.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The bookcases.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le librerie.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Recall the example: The desk is in the bedroom.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrivania è in camera.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finally, furnishings: a lamp, a curtain, a rug, and a sofa cushion.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The lamp.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lampada.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The lamp.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lampada.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The lamp is on the bedside table.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lampada è sul comodino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The lamp is on the bedside table.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lampada è sul comodino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The curtain.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tenda.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The curtain.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tenda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The curtain is long.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tenda è lunga.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The curtain is long.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tenda è lunga.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A tappeto can be a rug or a carpet.
+
+Here, picture a rug placed under the table.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The rug.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tappeto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The rug.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tappeto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The rug is under the table.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tappeto è sotto il tavolo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The rug is under the table.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tappeto è sotto il tavolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For a sofa cushion, we use cuscino again, with del divano to distinguish it from the pillow on the bed.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The sofa cushion.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino del divano.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The sofa cushion.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino del divano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The sofa cushion is soft.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino del divano è morbido.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The sofa cushion is soft.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino del divano è morbido.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Answer in Italian, including the article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rug.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tappeto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lamp.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lampada.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sofa cushion.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino del divano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The curtain.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tenda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The bookcase is full.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La libreria è piena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The plural of la lampada is le lampade.
+
+Say both the article and the noun.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The lamps.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le lampade.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The lamps.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le lampade.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Recall the example: The curtain is long.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tenda è lunga.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Final word review.
+
+The order is mixed.
+
+Give the Italian with its article.
+
+This is recall practice, so there is no Italian model until after your pause.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The armchair.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La poltrona.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The mattress.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il materasso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bedside table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il comodino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The coffee table.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lamp.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lampada.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The blanket.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La coperta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chair.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La sedia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The drawer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cassetto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sideboard.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La credenza.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bookcase.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La libreria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bench.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La panca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wardrobe.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’armadio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rug.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tappeto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bed.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il letto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The shelf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ripiano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The curtain.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La tenda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sofa.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il divano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The mirror.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo specchio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The pillow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sofa cushion.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino del divano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The stool.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo sgabello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The desk.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrivania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chest of drawers.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cassettiera.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finish with short sentences.
+
+You have heard each one already.
+
+Say the Italian during the pause.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The table is large.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tavolo è grande.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The armchair is comfortable.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La poltrona è comoda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bed is large.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il letto è grande.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The blanket is on the bed.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La coperta è sul letto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wardrobe is open.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’armadio è aperto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chest of drawers is white.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cassettiera è bianca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bookcase is full.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La libreria è piena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The mirror is clean.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo specchio è pulito.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rug is under the table.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tappeto è sotto il tavolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sofa cushion is soft.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cuscino del divano è morbido.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+One last plural review.
+
+Listen to the English, then give the Italian.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The stools.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli sgabelli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bookcases.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le librerie.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lamps.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le lampade.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The armchairs.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le poltrone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+End of Furniture and furnishings.
+
+(pause: 2)
+

@@ -1,0 +1,1878 @@
+(voice: Amy)
+
+(narration-language: en-US)
+
+Dining out.
+
+Booking a table at La Foresteria di Banchette.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You and Cheryl-Ann are in Callabiana.
+
+Practise booking a restaurant table by phone for lunch or dinner, agreeing on a time, and checking when the kitchen closes.
+
+First, listen to a short phone conversation.
+
+You do not need to repeat anything yet.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Foresteria di Banchette, buonasera.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+Vorrei prenotare un tavolo per due persone, per venerdì sera alle sette e mezza.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo.
+
+A che nome?
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Perfetto.
+
+Vi aspettiamo venerdì alle sette e mezza.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie, a venerdì.
+
+Arrivederci.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now let us build the conversation.
+
+On the telephone, begin with: Good evening.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Good evening.”
+
+(pause: 5)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: I would like to book.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vorrei prenotare.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “I would like to book.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vorrei prenotare.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: A table for two people.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un tavolo per due persone.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Put it together: “I would like to book a table for two people.”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vorrei prenotare un tavolo per due persone.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: For four people.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per quattro persone.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+This time, you are bringing friends.
+
+Book a table for four people.
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vorrei prenotare un tavolo per quattro persone.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+For your booking, you will need to say: Friday evening.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Venerdì sera.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Friday evening.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Venerdì sera.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: At half past seven.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Alle sette e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “At half past seven.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Alle sette e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Because you have said evening, half past seven clearly means seven thirty in the evening.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “For Friday evening at half past seven.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per venerdì sera alle sette e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Book a table for two people for Friday evening at half past seven.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Foresteria di Banchette, buonasera.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+Vorrei prenotare un tavolo per due persone, per venerdì sera alle sette e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The person taking your booking asks: Under what name? Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che nome?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Under the name Niceno.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Give the name for the booking.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che nome?
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now book the same Friday table for four people.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vorrei prenotare un tavolo per quattro persone, per venerdì sera alle sette e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now imagine a different booking.
+
+You want to come on Saturday evening, but you are not sure of your exact arrival time.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Saturday evening.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sabato sera.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask for a table for two for Saturday evening.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vorrei prenotare un tavolo per due persone, per sabato sera.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+They ask: At what time? Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora?
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: At eight.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Alle otto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Between half past seven and eight.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tra le sette e mezza e le otto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: We will arrive.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Arriviamo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “We will arrive between half past seven and eight.”
+
+(pause: 11)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Arriviamo tra le sette e mezza e le otto.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+This is your arrival window.
+
+You are not saying that you will leave at eight.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Is that all right?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say that you will arrive between half past seven and eight, and ask if that is all right.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora?
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Arriviamo tra le sette e mezza e le otto.
+
+Va bene?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, va bene.
+
+Vi aspettiamo.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You hear: Yes, that is all right.
+
+We will be expecting you.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now recall the precise Friday time: “Friday evening at half past seven.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Venerdì sera alle sette e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You are booking for four people on Saturday evening.
+
+Start the call.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Foresteria di Banchette, buonasera.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+Vorrei prenotare un tavolo per quattro persone, per sabato sera.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Give your arrival window and ask if it is all right.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora?
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Arriviamo tra le sette e mezza e le otto.
+
+Va bene?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo.
+
+A che nome?
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Thank you.
+
+See you on Saturday.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie.
+
+A sabato.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Finish the call: “Thank you.
+
+See you on Saturday.
+
+Goodbye.”
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie.
+
+A sabato.
+
+Arrivederci.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You can also book for lunch.
+
+Imagine a new phone call during the day.
+
+The lunch arrangements and kitchen closing time in this practice conversation are examples.
+
+First, listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Foresteria di Banchette, buongiorno.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buongiorno.
+
+Vorrei prenotare un tavolo per due persone, per sabato a pranzo.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora?
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A mezzogiorno, per favore.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Certo.
+
+A che nome?
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Perfetto.
+
+A sabato.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie.
+
+Arrivederci.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+During the day, begin with buongiorno.
+
+It works here as a polite daytime greeting.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Greet the restaurant during the day.
+
+(pause: 5)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buongiorno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: For lunch.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A pranzo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “For lunch.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A pranzo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “For Saturday lunch.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Per sabato a pranzo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Book a table for two people for Saturday lunch.
+
+(pause: 13)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vorrei prenotare un tavolo per due persone, per sabato a pranzo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: At noon.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A mezzogiorno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “At noon.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A mezzogiorno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Tell the restaurant that you would like the table at noon.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora?
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A mezzogiorno, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Put it together: “A table for two people for Saturday lunch, at noon.”
+
+(pause: 13)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un tavolo per due persone, per sabato a pranzo, a mezzogiorno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now try half past twelve.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “At half past twelve.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You would like to eat at half past twelve.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora?
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Alle dodici e mezza, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now book for four people, for Sunday lunch at half past twelve.
+
+(pause: 16)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vorrei prenotare un tavolo per quattro persone, per domenica a pranzo alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+For another visit, you would like to arrive at one.
+
+Listen carefully to the beginning of the phrase.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+All'una.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “At one.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+All'una.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Use all’una for one o’clock, a mezzogiorno for noon, and alle dodici e mezza for half past twelve.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “At noon.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A mezzogiorno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Change it to: “At one.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+All'una.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+And now: “At half past twelve.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Book a table for two people for Sunday lunch.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Foresteria di Banchette, buongiorno.
+
+(pause: 15)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buongiorno.
+
+Vorrei prenotare un tavolo per due persone, per domenica a pranzo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask for one o’clock.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora?
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+All'una, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The person taking your booking mentions the kitchen.
+
+Listen.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+La cucina chiude alle due.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+That means: The kitchen closes at two.
+
+This is the kitchen closing time in our imagined conversation.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: The kitchen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cucina.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “The kitchen.”
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cucina.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Closes at two.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Chiude alle due.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Closes at two.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Chiude alle due.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say the whole sentence: “The kitchen closes at two.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cucina chiude alle due.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: At what time does the kitchen close?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A che ora chiude la cucina?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “At what time does the kitchen close?”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A che ora chiude la cucina?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You are booking for lunch.
+
+Ask what time the kitchen closes.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Per il pranzo, a che ora volete arrivare?
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A che ora chiude la cucina?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+La cucina chiude alle due.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You want to check whether arriving at one leaves enough time to eat.
+
+Ask directly, rather than guessing.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Do we have time to eat?
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Facciamo in tempo a mangiare?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Do we have time to eat?”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Facciamo in tempo a mangiare?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask: “If we arrive at one, do we have time to eat?”
+
+(pause: 13)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Se arriviamo all'una, facciamo in tempo a mangiare?
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to one possible answer.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, se arrivate all'una va bene, però dovete ordinare subito.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+That means: Yes, if you arrive at one, that is all right, but you need to order straight away.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: We will order straight away.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ordiniamo subito.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “We will order straight away.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ordiniamo subito.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Reply: “All right.
+
+We will order straight away.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene.
+
+Ordiniamo subito.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+You may prefer to come a little earlier.
+
+Listen to this alternative.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora arriviamo alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Listen to the Italian for: Then we will arrive.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora arriviamo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now say: “Then we will arrive.”
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora arriviamo.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Say: “Then we will arrive at half past twelve.”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora arriviamo alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+The kitchen closes at two.
+
+Decide to arrive at half past twelve instead.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+La cucina chiude alle due.
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora arriviamo alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now choose noon instead: “Then we will arrive at noon.”
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora arriviamo a mezzogiorno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now review the lunch options.
+
+Imagine a separate booking each time.
+
+Start with a table for two on Saturday at noon.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Foresteria di Banchette, buongiorno.
+
+(pause: 16)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buongiorno.
+
+Vorrei prenotare un tavolo per due persone, per sabato a pranzo, a mezzogiorno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che nome?
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+For the next booking, four people are coming on Sunday.
+
+You want half past twelve.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Foresteria di Banchette, buongiorno.
+
+(pause: 16)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buongiorno.
+
+Vorrei prenotare un tavolo per quattro persone, per domenica a pranzo alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now a third booking.
+
+There are two of you, and you would like to arrive at one.
+
+Begin with the time when asked.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora volete arrivare?
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+All'una, per favore.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Ask what time the kitchen closes.
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A che ora chiude la cucina?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+La cucina chiude alle due.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Check: “If we arrive at one, do we have time to eat?”
+
+(pause: 13)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Se arriviamo all'una, facciamo in tempo a mangiare?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, però dovete ordinare subito.
+
+(pause: 2)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Agree that you will order straight away.
+
+(pause: 9)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Va bene.
+
+Ordiniamo subito.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Alternatively, decide to come earlier.
+
+Say: “Then we will arrive at half past twelve.”
+
+(pause: 10)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Allora arriviamo alle dodici e mezza.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+Now practise a dinner booking with less help.
+
+This time, book for four people on Saturday evening.
+
+You will arrive between half past seven and eight.
+
+Ask whether that is all right.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Foresteria di Banchette, buonasera.
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Buonasera.
+
+Vorrei prenotare un tavolo per quattro persone, per sabato sera.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+A che ora?
+
+(pause: 12)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Arriviamo tra le sette e mezza e le otto.
+
+Va bene?
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Sì, va bene.
+
+A che nome?
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+A nome Niceno.
+
+(pause: 1)
+
+(voice: Giovanni)
+
+(narration-language: it-IT)
+
+Bene, a sabato.
+
+(pause: 7)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Grazie.
+
+A sabato.
+
+Arrivederci.
+
+(pause: 1)
+
+(voice: Amy)
+
+(narration-language: en-US)
+
+End of Booking a table.
+
+(pause: 2)
+
