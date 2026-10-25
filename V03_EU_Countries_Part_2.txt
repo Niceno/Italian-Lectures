@@ -1,0 +1,3306 @@
+(voice: Jessica)
+
+(narration-language: default)
+
+EU countries.
+
+Part two.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Practise nine EU countries, from France to Luxembourg, in alphabetical order by their English names.
+
+Learn each country name, a male and a female inhabitant, and short example sentences.
+
+Speak during the pauses, then listen to the Italian answer.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+This lesson stands on its own.
+
+The travel and nationality sentences are examples for practice.
+
+They do not need to describe your own life.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen for the patterns: Vivo means I live.
+
+Ho visitato means I have visited.
+
+Lei è means she is.
+
+Loro sono means they are.
+
+Vado means I am going.
+
+Vengo means I come.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Learn the country name with its article when there is one.
+
+The travel sentences will show which preposition to use.
+
+Notice that nationality words sometimes change for a man or a woman, and sometimes stay the same.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+In the examples, loro sono describes a group of men or a mixed group.
+
+Use the plural nationality after sono.
+
+You will hear the model before you need to produce it.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+First, France.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: France.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Francia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: France.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Francia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A French man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un francese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A French man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un francese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A French woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una francese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A French woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una francese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in France.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Francia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in France.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Francia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited France.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Francia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited France.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Francia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is French.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è francese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is French.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è francese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are French.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono francesi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are French.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono francesi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I am going to France.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Francia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I am going to France.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Francia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Next, Germany.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: Germany.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Germania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: Germany.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Germania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A German man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un tedesco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A German man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un tedesco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A German woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una tedesca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A German woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una tedesca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Notice the different roots: the country is Germania, but the nationality is tedesco or tedesca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in Germany.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Germania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in Germany.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Germania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited Germany.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Germania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited Germany.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Germania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is German.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è tedesca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is German.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è tedesca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are German.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono tedeschi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are German.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono tedeschi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I come from Germany.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dalla Germania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I come from Germany.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dalla Germania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: He is German.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lui è tedesco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: He is German.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lui è tedesco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Next, Greece.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: Greece.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Grecia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: Greece.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Grecia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Greek man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un greco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Greek man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un greco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Greek woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una greca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Greek woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una greca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in Greece.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Grecia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in Greece.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Grecia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited Greece.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Grecia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited Greece.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Grecia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is Greek.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è greca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is Greek.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è greca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are Greek.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono greci.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are Greek.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono greci.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I am going to Greece.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Grecia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I am going to Greece.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Grecia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A short mixed review.
+
+Give the Italian during the pause.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+France.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Francia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A Greek woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una greca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+I live in Germany.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Germania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+They are French.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono francesi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Next, Hungary.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: Hungary.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Ungheria.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: Hungary.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Ungheria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Hungarian man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un ungherese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Hungarian man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un ungherese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Hungarian woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un’ungherese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Hungarian woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un’ungherese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in Hungary.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Ungheria.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in Hungary.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Ungheria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited Hungary.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato l’Ungheria.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited Hungary.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato l’Ungheria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is Hungarian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è ungherese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is Hungarian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è ungherese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are Hungarian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono ungheresi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are Hungarian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono ungheresi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I come from Hungary.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dall’Ungheria.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I come from Hungary.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dall’Ungheria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Next, Ireland.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: Ireland.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Irlanda.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: Ireland.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Irlanda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: An Irish man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un irlandese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: An Irish man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un irlandese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: An Irish woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un’irlandese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: An Irish woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un’irlandese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in Ireland.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Irlanda.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in Ireland.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Irlanda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited Ireland.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato l’Irlanda.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited Ireland.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato l’Irlanda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is Irish.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è irlandese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is Irish.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è irlandese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are Irish.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono irlandesi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are Irish.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono irlandesi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I am going to Ireland.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Irlanda.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I am going to Ireland.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Irlanda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: He is Irish.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lui è irlandese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: He is Irish.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lui è irlandese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Next, Italy.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: Italy.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Italia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: Italy.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Italia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: An Italian man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un italiano.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: An Italian man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un italiano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: An Italian woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un’italiana.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: An Italian woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un’italiana.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in Italy.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Italia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in Italy.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Italia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited Italy.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato l’Italia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited Italy.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato l’Italia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is Italian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è italiana.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is Italian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è italiana.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are Italian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono italiani.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are Italian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono italiani.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I come from Italy.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dall’Italia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I come from Italy.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dall’Italia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A short mixed review.
+
+Give the Italian during the pause.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Hungary.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Ungheria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+An Italian woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un’italiana.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+I live in Ireland.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Irlanda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+They are Hungarian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono ungheresi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Next, Latvia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: Latvia.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Lettonia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: Latvia.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Lettonia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Latvian man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un lettone.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Latvian man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un lettone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Latvian woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lettone.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Latvian woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lettone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in Latvia.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Lettonia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in Latvia.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Lettonia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited Latvia.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Lettonia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited Latvia.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Lettonia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is Latvian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è lettone.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is Latvian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è lettone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are Latvian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lettoni.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are Latvian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lettoni.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I am going to Latvia.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Lettonia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I am going to Latvia.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Lettonia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Next, Lithuania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: Lithuania.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Lituania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: Lithuania.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Lituania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Lithuanian man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un lituano.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Lithuanian man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un lituano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Lithuanian woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lituana.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Lithuanian woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lituana.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in Lithuania.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Lituania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in Lithuania.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Lituania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited Lithuania.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Lituania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited Lithuania.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Lituania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is Lithuanian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è lituana.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is Lithuanian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è lituana.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are Lithuanian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lituani.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are Lithuanian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lituani.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I come from Lithuania.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dalla Lituania.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I come from Lithuania.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dalla Lituania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: He is Lithuanian.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lui è lituano.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: He is Lithuanian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lui è lituano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Next, Luxembourg.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: Luxembourg.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il Lussemburgo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: Luxembourg.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il Lussemburgo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Luxembourgish man.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un lussemburghese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Luxembourgish man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un lussemburghese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: A Luxembourgish woman.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lussemburghese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: A Luxembourgish woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lussemburghese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I live in Luxembourg.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Lussemburgo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I live in Luxembourg.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Lussemburgo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I have visited Luxembourg.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato il Lussemburgo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I have visited Luxembourg.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato il Lussemburgo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: She is Luxembourgish.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è lussemburghese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: She is Luxembourgish.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è lussemburghese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: They are Luxembourgish.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lussemburghesi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: They are Luxembourgish.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lussemburghesi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Listen: I am going to Luxembourg.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Lussemburgo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now say: I am going to Luxembourg.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Lussemburgo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A short mixed review.
+
+Give the Italian during the pause.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Latvia.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Lettonia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A Luxembourgish woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lussemburghese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+I live in Lithuania.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Lituania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+They are Latvian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lettoni.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now review the nine countries in a mixed order.
+
+Include the article when there is one.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Italy.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Italia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+France.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Francia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Lithuania.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Lituania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Hungary.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Ungheria.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Luxembourg.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il Lussemburgo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Germany.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Germania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Latvia.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Lettonia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Ireland.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’Irlanda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Greece.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La Grecia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Now switch between male and female inhabitants.
+
+Listen to the whole English prompt before answering.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A French woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una francese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A Hungarian man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un ungherese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A German man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un tedesco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A Lithuanian man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un lituano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+An Irish woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un’irlandese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A Greek woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una greca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A Luxembourgish woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lussemburghese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+An Italian man.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Un italiano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+A Latvian woman.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Una lettone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Finally, mix the sentence patterns.
+
+Give a complete Italian sentence during each pause.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+I live in France.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Francia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+I have visited Germany.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho visitato la Germania.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+She is Greek.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è greca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+They are Hungarian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono ungheresi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+I am going to Ireland.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vado in Irlanda.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+I come from Italy.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vengo dall’Italia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+I live in Latvia.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Vivo in Lettonia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+She is Lithuanian.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è lituana.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+They are Luxembourgish.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lussemburghesi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+One final contrast.
+
+Listen to the country name, then describe a woman and a group of people from that country.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+Luxembourg.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il Lussemburgo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+She is Luxembourgish.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lei è lussemburghese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+They are Luxembourgish.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Loro sono lussemburghesi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: default)
+
+End of EU countries, part two.
+
+(pause: 2)
+

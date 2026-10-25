@@ -1,0 +1,3168 @@
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Grammar lesson one.
+
+Ho or sono?
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Practise choosing the helping verb in the Italian past tense called passato prossimo.
+
+We will use sixteen common verbs, always speaking about I.
+
+The model answers are spoken as a woman, with endings such as arrivata.
+
+Changes of person and gender belong to a separate lesson.
+
+Here, concentrate on choosing the right helping verb.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Italian builds this past tense from two parts.
+
+First comes a form of avere or essere, the helping verb.
+
+Then comes the past participle.
+
+Listen to two examples.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Both describe past events.
+
+Ho mangiato means I ate, or I have eaten.
+
+Sono arrivata means I arrived, or I have arrived.
+
+Do not translate sono literally as am in this construction.
+
+Learn the whole past-tense phrase.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For I, the helping verb avere becomes ho.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For I, the helping verb essere becomes sono.
+
+Listen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Most verbs use avere.
+
+Some common verbs, including the arrival and departure verbs in this lesson, use essere.
+
+Movement alone does not decide the answer.
+
+We will practise walked and travelled with ho, alongside went and arrived with sono.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The Italian subject pronoun io is usually unnecessary here.
+
+The examples will normally begin directly with ho or sono.
+
+Listen first, then answer during the pause.
+
+Each small group mixes both helping verbs.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+First, eating and working, then arriving and leaving.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To eat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mangiare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I ate.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I ate.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I ate at home.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato a casa.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I ate at home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To work.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lavorare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I worked.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho lavorato.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I worked.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho lavorato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I worked yesterday.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho lavorato ieri.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I worked yesterday.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho lavorato ieri.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To arrive.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Arrivare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I arrived.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I arrived.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I arrived yesterday afternoon.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata ieri pomeriggio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I arrived yesterday afternoon.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata ieri pomeriggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Arriving uses essere in this past tense.
+
+Keep the whole pair together: arrivare, sono arrivata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To leave on a journey.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Partire.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I left on my journey.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono partita.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I left on my journey.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono partita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I left this morning.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono partita questa mattina.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I left this morning.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono partita questa mattina.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now mix the four verbs you have just practised.
+
+Translate the English into a complete Italian phrase.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I arrived.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I ate.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I left on my journey.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono partita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I worked.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho lavorato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For the next four prompts, say only the helping verb for I.
+
+You will hear the Italian infinitive first.
+
+Reply with ho or sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lavorare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Partire.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Mangiare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Arrivare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now give the complete past phrase again.
+
+Remember both the helping verb and the participle.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I left on my journey.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono partita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I worked.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho lavorato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now drinking and sleeping, then returning and going.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To drink.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Bere.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I drank.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho bevuto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I drank.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho bevuto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I drank a glass of water.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho bevuto un bicchiere d’acqua.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I drank a glass of water.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho bevuto un bicchiere d’acqua.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To sleep.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Dormire.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I slept.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I slept.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I slept well.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito bene.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I slept well.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito bene.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To return.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tornare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I returned.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono tornata.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I returned.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono tornata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I returned home.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono tornata a casa.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I returned home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono tornata a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Here, returning is tornare.
+
+Recall the whole phrase, sono tornata, rather than choosing from the English translation alone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To go.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Andare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I went.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I went.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I went to the restaurant.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata al ristorante.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I went to the restaurant.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata al ristorante.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now mix the four verbs you have just practised.
+
+Translate the English into a complete Italian phrase.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I returned.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono tornata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I drank.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho bevuto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I slept.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: I ate at home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For the next four prompts, say only the helping verb for I.
+
+You will hear the Italian infinitive first.
+
+Reply with ho or sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Dormire.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Andare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Bere.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Tornare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now give the complete past phrase again.
+
+Remember both the helping verb and the participle.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I slept.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now buying and deleting, then coming and staying at home.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To buy.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Comprare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I bought the meat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho comprato la carne.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I bought the meat.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho comprato la carne.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I bought the meat yesterday.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho comprato la carne ieri.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I bought the meat yesterday.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho comprato la carne ieri.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To delete.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Cancellare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I deleted the message.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I deleted the message.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I deleted the message by mistake.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio per sbaglio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I deleted the message by mistake.
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio per sbaglio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To come.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Venire.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I came here.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono venuta qui.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I came here.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono venuta qui.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I came here yesterday.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono venuta qui ieri.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I came here yesterday.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono venuta qui ieri.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To stay or remain.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Rimanere.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I stayed at home.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I stayed at home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I stayed at home yesterday.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa ieri.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I stayed at home yesterday.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa ieri.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+In this example, staying at home uses rimanere.
+
+Learn sono rimasta a casa as a complete phrase.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now mix the four verbs you have just practised.
+
+Translate the English into a complete Italian phrase.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I came here.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono venuta qui.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I bought the meat.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho comprato la carne.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I stayed at home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I deleted the message.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: I drank a glass of water.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho bevuto un bicchiere d’acqua.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For the next four prompts, say only the helping verb for I.
+
+You will hear the Italian infinitive first.
+
+Reply with ho or sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Cancellare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Rimanere.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Comprare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Venire.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now give the complete past phrase again.
+
+Remember both the helping verb and the participle.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I stayed at home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I deleted the message.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finally, walking and travelling, then going inside and going out.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To walk.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Camminare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I walked.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho camminato.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I walked.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho camminato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I walked as far as the village.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho camminato fino al paese.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I walked as far as the village.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho camminato fino al paese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Walking involves movement, but camminare uses avere.
+
+This is why movement is not a sufficient rule for choosing the helping verb.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To travel.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Viaggiare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I travelled.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I travelled.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I travelled by train.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato in treno.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I travelled by train.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato in treno.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Viaggiare also uses avere.
+
+Contrast travelling by train with going to the restaurant.
+
+Listen to both.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato in treno.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata al ristorante.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To enter or go inside.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Entrare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I went inside.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono entrata.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I went inside.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono entrata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I went inside the house.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono entrata in casa.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I went inside the house.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono entrata in casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The verb: To go out.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Uscire.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the past-tense phrase: I went out.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I went out.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: I went out early.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita presto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: I went out early.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita presto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now mix the four verbs you have just practised.
+
+Translate the English into a complete Italian phrase.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went inside.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono entrata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I walked.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho camminato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went out.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I travelled.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: I bought the meat yesterday.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho comprato la carne ieri.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For the next four prompts, say only the helping verb for I.
+
+You will hear the Italian infinitive first.
+
+Reply with ho or sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Viaggiare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Uscire.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Camminare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Entrare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now give the complete past phrase again.
+
+Remember both the helping verb and the participle.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went out.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I travelled.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Let us compare a few pairs.
+
+There is no need to invent a rule that explains every verb today.
+
+Build reliable habits with the common phrases, and keep their helping verbs attached.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I walked as far as the village.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho camminato fino al paese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went to the restaurant.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata al ristorante.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I travelled by train.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato in treno.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I arrived yesterday afternoon.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata ieri pomeriggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I slept well.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito bene.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I stayed at home yesterday.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa ieri.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I deleted the message by mistake.
+
+(pause: 8)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio per sbaglio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went out early.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita presto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+You can also make these sentences negative.
+
+Put non before the helping verb.
+
+Listen to one example with each helping verb.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non ho lavorato.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non sono uscita.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I did not work.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non ho lavorato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: I did not go out.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Non sono uscita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The helping verb stays the same when you add non.
+
+Now return to positive sentences.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Final mixed review.
+
+The verbs are no longer grouped.
+
+Translate during the pauses.
+
+The short phrases have four seconds, and fuller sentences have six or eight seconds.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I arrived.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I deleted the message.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I slept.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I ate.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went out.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I walked.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho camminato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I came here.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono venuta qui.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I drank.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho bevuto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I left on my journey.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono partita.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I bought the meat.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho comprato la carne.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I stayed at home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I worked.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho lavorato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went inside.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono entrata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I travelled.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I returned.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono tornata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now translate a short sequence of independent sentences about everyday life.
+
+All the verbs have already appeared.
+
+Each sentence gives you a new opportunity to choose the helping verb.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I arrived yesterday afternoon.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata ieri pomeriggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I slept well.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho dormito bene.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I worked at home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho lavorato a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went to the restaurant.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono andata al ristorante.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I ate at home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho mangiato a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I returned home.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono tornata a casa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I deleted the message.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I stayed at home yesterday.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono rimasta a casa ieri.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I walked as far as the village.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho camminato fino al paese.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I went out early.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono uscita presto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I travelled by train.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho viaggiato in treno.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+I left this morning.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono partita questa mattina.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+One last helping-verb check.
+
+Say only ho or sono after the Italian infinitive.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Arrivare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Dormire.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Camminare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Andare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Cancellare.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Rimanere.
+
+(pause: 3)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finish with your original two examples.
+
+First: I arrived.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Sono arrivata.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now: I deleted the message.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Ho cancellato il messaggio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Keep learning each verb with its helping verb and past participle.
+
+In the next grammar lesson, we can change the person and practise the endings.
+
+End of grammar lesson one.
+
+(pause: 2)
+

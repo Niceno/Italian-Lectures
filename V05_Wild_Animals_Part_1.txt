@@ -1,0 +1,3298 @@
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Vocabulary lesson.
+
+Wild animals.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Practise twenty-five wild animal names, beginning with familiar European wildlife and then moving to a selection from Africa.
+
+There are no dialogues.
+
+Learn each name with its Italian article.
+
+Then practise one short example sentence.
+
+Speak during the pause, before you hear the Italian answer.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Picture a simple scene as you learn each example.
+
+You will hear familiar patterns several times. È means is.
+
+Corre means runs or is running.
+
+Dorme means sleeps or is sleeping.
+
+Beve means drinks or is drinking.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Some Italian animal names are masculine and others are feminine.
+
+The article tells you the grammatical gender of the word.
+
+It does not necessarily tell you whether the animal you see is male or female.
+
+Learn the article together with the name.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+First, four familiar European wild animals: the wolf, the bear, the fox, and the wild boar.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The wolf.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il lupo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The wolf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il lupo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The wolf is in the woods.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il lupo è nel bosco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The wolf is in the woods.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il lupo è nel bosco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The bear.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The bear is sleeping.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso dorme.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bear is sleeping.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso dorme.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The fox.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The fox.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The fox has a long tail.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe ha la coda lunga.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The fox has a long tail.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe ha la coda lunga.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Cinghiale is the wild boar.
+
+We will use the full English name so that it stays separate from the domestic pig.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The wild boar.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cinghiale.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The wild boar.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cinghiale.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The wild boar is looking for food.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cinghiale cerca cibo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The wild boar is looking for food.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cinghiale cerca cibo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The fox.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wild boar.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cinghiale.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wolf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il lupo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The wolves.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I lupi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The wolves.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I lupi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The foxes.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le volpi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The foxes.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le volpi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now deer and smaller woodland animals: the red deer, the roe deer, the hare, and the squirrel.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For this drill, cervo is the red deer.
+
+Next comes the roe deer, capriolo.
+
+Learn them as two different animal names.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The red deer.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cervo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The red deer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cervo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The deer is in the field.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cervo è nel prato.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The deer is in the field.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cervo è nel prato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The roe deer.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capriolo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The roe deer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capriolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The roe deer is running in the woods.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capriolo corre nel bosco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The roe deer is running in the woods.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capriolo corre nel bosco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The hare.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lepre.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hare.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lepre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The hare is running.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lepre corre.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hare is running.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lepre corre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen to the article lo in lo scoiattolo.
+
+Keep the article attached to the word when you answer.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The squirrel.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scoiattolo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The squirrel.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scoiattolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The squirrel is in the tree.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scoiattolo è sull’albero.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The squirrel is in the tree.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scoiattolo è sull’albero.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The roe deer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capriolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hare.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lepre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The squirrel.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scoiattolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The red deer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cervo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The wolf is in the woods.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il lupo è nel bosco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The squirrels.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli scoiattoli.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The squirrels.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli scoiattoli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Five more European animals: the hedgehog, the badger, the lynx, the chamois, and the ibex.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The hedgehog.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il riccio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hedgehog.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il riccio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The hedgehog is in the garden.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il riccio è in giardino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hedgehog is in the garden.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il riccio è in giardino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The badger.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tasso.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The badger.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tasso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The badger is coming out.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tasso esce.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The badger is coming out.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tasso esce.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The lynx.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lince.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The lynx.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lince.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The lynx is in the woods.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lince è nel bosco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The lynx is in the woods.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lince è nel bosco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The chamois.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il camoscio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The chamois.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il camoscio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The chamois is on the rock.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il camoscio è sulla roccia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The chamois is on the rock.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il camoscio è sulla roccia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The ibex is the mountain animal called stambecco.
+
+Listen for lo stambecco, with the same article as lo scoiattolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The ibex.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo stambecco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The ibex.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo stambecco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The ibex is in the mountains.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo stambecco è in montagna.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The ibex is in the mountains.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo stambecco è in montagna.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The badger.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tasso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lynx.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lince.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chamois.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il camoscio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The ibex.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo stambecco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hedgehog.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il riccio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The deer is in the field.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cervo è nel prato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The plural changes the ending of stambecco.
+
+Listen for stambecchi, with the plural article gli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The ibex, more than one.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli stambecchi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The ibex, more than one.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli stambecchi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now some familiar African wildlife: the lion, the elephant, the giraffe, and the zebra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The lion.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leone.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The lion.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The lion is sleeping in the shade.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leone dorme all’ombra.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The lion is sleeping in the shade.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leone dorme all’ombra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The elephant.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’elefante.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The elephant.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’elefante.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The elephant is drinking.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’elefante beve.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The elephant is drinking.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’elefante beve.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The giraffe.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La giraffa.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The giraffe.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La giraffa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The giraffe is eating the leaves.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La giraffa mangia le foglie.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The giraffe is eating the leaves.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La giraffa mangia le foglie.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The zebra.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La zebra.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The zebra.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La zebra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The zebra is running.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La zebra corre.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The zebra is running.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La zebra corre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The elephant.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’elefante.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The giraffe.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La giraffa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The zebra.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La zebra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lion.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The hedgehog is in the garden.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il riccio è in giardino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The lions.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I leoni.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The lions.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I leoni.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The elephants.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli elefanti.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The elephants.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli elefanti.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The giraffes.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le giraffe.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The giraffes.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le giraffe.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The zebras.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le zebre.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The zebras.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le zebre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Next, the leopard, the cheetah, the hyena, and the rhinoceros.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The leopard.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leopardo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The leopard.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leopardo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The leopard is in the tree.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leopardo è sull’albero.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The leopard is in the tree.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leopardo è sull’albero.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Keep the cheetah and the leopard separate.
+
+Leopard is leopardo.
+
+Cheetah is ghepardo.
+
+You will practise both again in the mixed review.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The cheetah.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ghepardo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The cheetah.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ghepardo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The cheetah is running.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ghepardo corre.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The cheetah is running.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ghepardo corre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The hyena.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La iena.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hyena.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La iena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The hyena is near the lion.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La iena è vicino al leone.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hyena is near the lion.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La iena è vicino al leone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The rhinoceros.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il rinoceronte.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The rhinoceros.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il rinoceronte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The rhinoceros is walking.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il rinoceronte cammina.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The rhinoceros is walking.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il rinoceronte cammina.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cheetah.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ghepardo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hyena.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La iena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rhinoceros.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il rinoceronte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The leopard.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leopardo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The lion is sleeping in the shade.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leone dorme all’ombra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finally, the hippopotamus, the African buffalo, the crocodile, and the gorilla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The hippopotamus.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ippopotamo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hippopotamus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ippopotamo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The hippopotamus is in the water.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ippopotamo è nell’acqua.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hippopotamus is in the water.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ippopotamo è nell’acqua.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Here we mean the African buffalo.
+
+Keep africano in your answer, so that you practise the whole phrase.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The African buffalo.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bufalo africano.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The African buffalo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bufalo africano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The African buffalo is drinking.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bufalo africano beve.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The African buffalo is drinking.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bufalo africano beve.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The crocodile.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coccodrillo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The crocodile.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coccodrillo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The crocodile is in the river.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coccodrillo è nel fiume.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The crocodile is in the river.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coccodrillo è nel fiume.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Despite its final a, gorilla is masculine in this vocabulary item.
+
+Learn il gorilla, and keep the same noun form in the plural.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The gorilla.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gorilla.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The gorilla.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gorilla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The gorilla is eating.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gorilla mangia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The gorilla is eating.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gorilla mangia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The African buffalo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bufalo africano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The crocodile.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coccodrillo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The gorilla.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gorilla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hippopotamus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ippopotamo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The leopard is in the tree.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leopardo è sull’albero.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The noun stays the same in the plural: gorilla.
+
+The article changes from il to i.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The gorillas.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I gorilla.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The gorillas.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I gorilla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Final word review.
+
+The order is mixed.
+
+Include the article, even when you are confident about the animal name.
+
+Try to answer before the Italian model.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cheetah.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ghepardo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wolf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il lupo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The giraffe.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La giraffa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The squirrel.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scoiattolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hippopotamus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ippopotamo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The fox.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chamois.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il camoscio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The gorilla.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gorilla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The red deer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cervo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The elephant.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’elefante.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hedgehog.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il riccio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The African buffalo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bufalo africano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The leopard.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leopardo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hare.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lepre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The ibex.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo stambecco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hyena.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La iena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wild boar.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cinghiale.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The zebra.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La zebra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The badger.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tasso.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The crocodile.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coccodrillo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The roe deer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capriolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rhinoceros.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il rinoceronte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lynx.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lince.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lion.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finish with short sentences.
+
+You have heard every example already.
+
+Translate during the pause.
+
+The longer sentences give you a little more time.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wolf is in the woods.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il lupo è nel bosco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The fox has a long tail.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe ha la coda lunga.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The squirrel is in the tree.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo scoiattolo è sull’albero.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The ibex is in the mountains.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Lo stambecco è in montagna.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lion is sleeping in the shade.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il leone dorme all’ombra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The giraffe is eating the leaves.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La giraffa mangia le foglie.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cheetah is running.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il ghepardo corre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hyena is near the lion.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La iena è vicino al leone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hippopotamus is in the water.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ippopotamo è nell’acqua.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The gorilla is eating.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gorilla mangia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+One last plural review.
+
+Listen for the article as well as the noun ending.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wolves.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I lupi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The squirrels.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli scoiattoli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The ibex, more than one.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli stambecchi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The gorillas.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I gorilla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+End of Wild animals, part one.
+
+(pause: 2)
+

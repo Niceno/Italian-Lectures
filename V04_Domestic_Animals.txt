@@ -1,0 +1,3346 @@
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Vocabulary lesson.
+
+Domestic animals.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Practise twenty-five familiar farm and domestic animal words, including the cat.
+
+There are no dialogues.
+
+Learn each name with its article, then practise one short example sentence.
+
+Say the Italian during the pause, before you hear the answer.
+
+Earlier words will return in a mixed order.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Some animals have different names for the male, the female, and the young.
+
+We count each of these as a separate vocabulary item.
+
+The words for a cow, a bull, and a calf are three items, not one.
+
+You will practise selected plurals without learning every possible animal form.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The example sentences describe simple scenes.
+
+Mangia means eats or is eating.
+
+Corre means runs or is running.
+
+Dorme means sleeps or is sleeping. È means is.
+
+Near the end, you will recall sentences that you have already heard.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+First, cattle: the cow, the bull, and the calf.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The cow.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La mucca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The cow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La mucca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The cow eats grass.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La mucca mangia l’erba.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The cow eats grass.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La mucca mangia l’erba.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The bull.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il toro.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bull.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il toro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The bull is in the field.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il toro è nel prato.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bull is in the field.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il toro è nel prato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The calf.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vitello.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The calf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vitello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The calf is small.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vitello è piccolo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The calf is small.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vitello è piccolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bull.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il toro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The calf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vitello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La mucca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The cows.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le mucche.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The cows.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le mucche.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The calves.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I vitelli.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The calves.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I vitelli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the pig family: a pig, a sow, and a piglet.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The pig.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maiale.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The pig.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maiale.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The pig is eating.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maiale mangia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The pig is eating.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maiale mangia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A sow is an adult female pig.
+
+A piglet is a young pig.
+
+Listen carefully to the different Italian names.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The sow.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrofa.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The sow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrofa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The sow has three piglets.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrofa ha tre maialini.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The sow has three piglets.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrofa ha tre maialini.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The piglet.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maialino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The piglet.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maialino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The piglet is small.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maialino è piccolo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The piglet is small.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maialino è piccolo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrofa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The piglet.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maialino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The pig.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maiale.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The cow eats grass.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La mucca mangia l’erba.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The pigs.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I maiali.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The pigs.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I maiali.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now sheep: the sheep, the ram, and the lamb.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The sheep.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pecora.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The sheep.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pecora.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The sheep eats grass.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pecora mangia l’erba.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The sheep eats grass.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pecora mangia l’erba.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A ram is a male sheep.
+
+A lamb is a young sheep.
+
+The Italian name ariete begins with a vowel, so listen to the article joined to it.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The ram.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ariete.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The ram.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ariete.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The ram is in the enclosure.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ariete è nel recinto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The ram is in the enclosure.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ariete è nel recinto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The lamb.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’agnello.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The lamb.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’agnello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The lamb is beside the sheep.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’agnello è vicino alla pecora.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The lamb is beside the sheep.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’agnello è vicino alla pecora.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The ram.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ariete.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lamb.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’agnello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sheep.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pecora.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The pig is eating.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maiale mangia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+In English, sheep can be singular or plural.
+
+In Italian, listen for pecora changing to pecore.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The sheep, more than one.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le pecore.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The sheep, more than one.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le pecore.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now goats: a goat, a billy goat, and a kid goat.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The goat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La capra.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La capra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The goat is on the rock.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La capra è sulla roccia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The goat is on the rock.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La capra è sulla roccia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The billy goat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il caprone.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The billy goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il caprone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The billy goat has horns.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il caprone ha le corna.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The billy goat has horns.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il caprone ha le corna.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Here, kid means a young goat, not a child.
+
+We will use kid goat in the English prompts to keep the meaning clear.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The kid goat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capretto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The kid goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capretto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The kid goat is jumping.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capretto salta.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The kid goat is jumping.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capretto salta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The billy goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il caprone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The kid goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capretto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La capra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The sheep eats grass.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pecora mangia l’erba.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The goats.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le capre.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The goats.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le capre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now horses and donkeys: a horse, a mare, a foal, and a donkey.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The horse.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavallo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The horse.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavallo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The horse is running.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavallo corre.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The horse is running.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavallo corre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A mare is a female horse.
+
+Notice how cavallo changes to cavalla.
+
+The young horse is a puledro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The mare.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cavalla.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The mare.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cavalla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The mare is in the field.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cavalla è nel prato.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The mare is in the field.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cavalla è nel prato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The foal.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puledro.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The foal.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puledro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The foal is beside the mare.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puledro è vicino alla cavalla.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The foal is beside the mare.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puledro è vicino alla cavalla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The donkey.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’asino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The donkey.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’asino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The donkey is carrying a sack.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’asino porta un sacco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The donkey is carrying a sack.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’asino porta un sacco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The mare.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cavalla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The foal.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puledro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The donkey.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’asino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The horse.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavallo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The goat is on the rock.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La capra è sulla roccia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The horses.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I cavalli.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The horses.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I cavalli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the chicken family: the hen, the rooster, and the chick.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A hen is the adult female, a rooster is the male, and a chick is the young bird.
+
+Each gets its own word and example.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The hen.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La gallina.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hen.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La gallina.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The hen lays eggs.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La gallina fa le uova.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The hen lays eggs.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La gallina fa le uova.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The rooster.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gallo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The rooster.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gallo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The rooster is crowing.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gallo canta.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The rooster is crowing.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gallo canta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The chick.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pulcino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The chick.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pulcino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The chick is yellow.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pulcino è giallo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The chick is yellow.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pulcino è giallo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rooster.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gallo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chick.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pulcino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hen.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La gallina.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The horse is running.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavallo corre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The hens.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le galline.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The hens.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le galline.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+More poultry: the duck, the goose, and the turkey.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The duck.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’anatra.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The duck.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’anatra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The duck is swimming.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’anatra nuota.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The duck is swimming.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’anatra nuota.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The goose.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’oca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The goose.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’oca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The goose is beside the pond.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’oca è vicino al laghetto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The goose is beside the pond.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’oca è vicino al laghetto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The turkey.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tacchino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The turkey.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tacchino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The turkey is large.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tacchino è grande.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The turkey is large.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tacchino è grande.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The goose.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’oca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The turkey.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tacchino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The duck.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’anatra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The hen lays eggs.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La gallina fa le uova.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen carefully to the plural of oca: oche.
+
+The article also changes from l’ to le.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The geese.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le oche.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The geese.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le oche.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finally, the rabbit, the dog, and the cat.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The rabbit.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coniglio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The rabbit.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coniglio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The rabbit eats grass.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coniglio mangia l’erba.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The rabbit eats grass.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coniglio mangia l’erba.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The dog.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cane.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The dog.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cane.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The dog is sleeping.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cane dorme.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The dog is sleeping.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cane dorme.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The cat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gatto.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The cat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gatto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The cat is on the sofa.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gatto è sul divano.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The cat is on the sofa.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gatto è sul divano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The dog.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cane.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gatto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rabbit.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coniglio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The duck is swimming.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’anatra nuota.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The cats.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I gatti.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The cats.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I gatti.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Final word review.
+
+The order is mixed.
+
+Try to answer before the Italian model.
+
+Remember that the article is part of what you are practising.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gatto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The calf.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vitello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La capra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rooster.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gallo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrofa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The horse.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavallo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The goose.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’oca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The ram.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ariete.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The rabbit.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il coniglio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cow.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La mucca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The donkey.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’asino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chick.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pulcino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The billy goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il caprone.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The dog.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cane.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The piglet.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maialino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The mare.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La cavalla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The duck.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’anatra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bull.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il toro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The kid goat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il capretto.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The turkey.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tacchino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sheep.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La pecora.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The foal.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puledro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The pig.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il maiale.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hen.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La gallina.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lamb.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’agnello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finish with short sentences.
+
+You have heard every example already.
+
+Translate during the pause.
+
+The longer sentences give you a little more time.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cow eats grass.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La mucca mangia l’erba.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sow has three piglets.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La scrofa ha tre maialini.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The lamb is beside the sheep.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’agnello è vicino alla pecora.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The billy goat has horns.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il caprone ha le corna.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The horse is running.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cavallo corre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The foal is beside the mare.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puledro è vicino alla cavalla.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The hen lays eggs.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La gallina fa le uova.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The chick is yellow.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pulcino è giallo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The dog is sleeping.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il cane dorme.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cat is on the sofa.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il gatto è sul divano.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+One last plural review.
+
+Give the Italian with its plural article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cows.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le mucche.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The sheep, more than one.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le pecore.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The geese.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le oche.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cats.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I gatti.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+End of Domestic animals.
+
+(pause: 2)
+

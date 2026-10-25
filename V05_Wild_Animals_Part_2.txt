@@ -1,0 +1,3252 @@
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Vocabulary lesson.
+
+More wild animals.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Practise twenty-four animal names, including Australian and North American wildlife, cold-region animals, and animals of the sea.
+
+There are no dialogues.
+
+Learn each name with its article and one short example sentence.
+
+Speak during the pause, before you hear the Italian answer.
+
+This lesson stands on its own.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Picture each animal as you hear its name.
+
+The short sentences give you a simple scene to remember.
+
+Nuota means swims or is swimming.
+
+Salta means jumps or is jumping.
+
+Vola means flies or is flying.
+
+Scava means digs or is digging.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Some names describe a particular kind of animal, such as a polar bear or an Arctic fox.
+
+Keep the describing word in your answer.
+
+Learn each complete expression with its article.
+
+The article gives the grammatical gender of the name, rather than necessarily identifying the sex of the animal.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+First, three Australian animals: the kangaroo, the koala, and the wombat.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The kangaroo.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il canguro.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The kangaroo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il canguro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The kangaroo is jumping.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il canguro salta.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The kangaroo is jumping.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il canguro salta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Koala is masculine in Italian, despite ending in a.
+
+Learn the phrase il koala, with its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The koala.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il koala.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The koala.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il koala.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The koala is in the tree.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il koala è sull’albero.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The koala is in the tree.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il koala è sull’albero.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For wombat, we will use the Italian word vombato.
+
+Listen to the final vowel and keep it in your answer.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The wombat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vombato.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The wombat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vombato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The wombat is digging.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vombato scava.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The wombat is digging.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vombato scava.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name, including its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The koala.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il koala.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wombat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vombato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The kangaroo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il canguro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The kangaroos.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I canguri.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The kangaroos.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I canguri.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The plural noun koala stays the same.
+
+Listen for the article changing from il to i.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The koalas.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I koala.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The koalas.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I koala.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Three more Australian animals: the platypus, the emu, and the dingo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The platypus has a longer Italian name.
+
+Listen to the whole word first, then try saying it as one unit.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The platypus.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ornitorinco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The platypus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ornitorinco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The platypus is swimming.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ornitorinco nuota.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The platypus is swimming.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ornitorinco nuota.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The emu.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’emù.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The emu.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’emù.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The emu is running.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’emù corre.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The emu is running.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’emù corre.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The dingo.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il dingo.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The dingo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il dingo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The dingo is near the tree.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il dingo è vicino all’albero.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The dingo is near the tree.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il dingo è vicino all’albero.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name, including its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The emu.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’emù.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The dingo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il dingo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The platypus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ornitorinco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The kangaroo is jumping.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il canguro salta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The plural of ornitorinco ends in inchi.
+
+Listen to the whole form and its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The platypuses.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli ornitorinchi.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The platypuses.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli ornitorinchi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now animals associated with North America: the raccoon, the grizzly bear, the bison, and the moose.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The raccoon.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il procione.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The raccoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il procione.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The raccoon is in the garden.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il procione è in giardino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The raccoon is in the garden.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il procione è in giardino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The grizzly bear.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso grizzly.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The grizzly bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso grizzly.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The grizzly bear is in the river.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso grizzly è nel fiume.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The grizzly bear is in the river.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso grizzly è nel fiume.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+For the North American animal often called buffalo, we will use bison.
+
+In Italian, this is bisonte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The bison.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bisonte.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bison.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bisonte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The bison is eating grass.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bisonte mangia l’erba.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bison is eating grass.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bisonte mangia l’erba.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Moose is alce.
+
+Learn the masculine article together with it: l’alce.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The moose.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’alce.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The moose.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’alce.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The moose is near the lake.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’alce è vicino al lago.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The moose is near the lake.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’alce è vicino al lago.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name, including its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The grizzly bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso grizzly.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bison.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bisonte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The moose.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’alce.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The raccoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il procione.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The platypus is swimming.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ornitorinco nuota.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The raccoons.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I procioni.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The raccoons.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I procioni.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The bison, more than one.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bisonti.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The bison, more than one.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I bisonti.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Moose stays the same in English, but the Italian plural changes to alci.
+
+Listen for the article gli.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The moose, more than one.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli alci.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The moose, more than one.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli alci.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Next, the beaver, the skunk, and the cougar.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The beaver.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il castoro.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The beaver.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il castoro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The beaver is in the river.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il castoro è nel fiume.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The beaver is in the river.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il castoro è nel fiume.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+We will use moffetta for skunk.
+
+Learn the feminine article la, together with the animal name.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The skunk.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La moffetta.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The skunk.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La moffetta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The skunk is hiding.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La moffetta si nasconde.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The skunk is hiding.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La moffetta si nasconde.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Cougar is puma in Italian.
+
+The animal name ends in a, but the article here is masculine: il puma.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The cougar.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puma.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The cougar.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puma.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The cougar is on the rock.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puma è sulla roccia.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The cougar is on the rock.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puma è sulla roccia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name, including its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The skunk.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La moffetta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cougar.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puma.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The beaver.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il castoro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The raccoon is in the garden.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il procione è in giardino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the penguin, the polar bear, the Arctic fox, and the reindeer.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The penguin.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pinguino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The penguin.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pinguino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The penguin is swimming.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pinguino nuota.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The penguin is swimming.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pinguino nuota.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Compare the full names: orso grizzly and orso polare.
+
+The final word tells you which kind of bear you mean.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The polar bear.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso polare.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The polar bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso polare.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The polar bear is walking on the ice.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso polare cammina sul ghiaccio.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The polar bear is walking on the ice.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso polare cammina sul ghiaccio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The Arctic fox.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe artica.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The Arctic fox.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe artica.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The Arctic fox has a long tail.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe artica ha la coda lunga.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The Arctic fox has a long tail.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe artica ha la coda lunga.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The reindeer.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La renna.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The reindeer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La renna.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The reindeer is in the snow.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La renna è nella neve.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The reindeer is in the snow.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La renna è nella neve.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name, including its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The polar bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso polare.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The Arctic fox.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe artica.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The reindeer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La renna.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The penguin.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pinguino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The beaver is in the river.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il castoro è nel fiume.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The penguins.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I pinguini.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The penguins.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I pinguini.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now four animals you might picture in or beside the sea: the seal, the walrus, the whale, and the dolphin.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The seal.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La foca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The seal.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La foca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The seal is in the water.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La foca è nell’acqua.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The seal is in the water.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La foca è nell’acqua.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The walrus.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tricheco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The walrus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tricheco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The walrus is resting.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tricheco riposa.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The walrus is resting.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tricheco riposa.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The whale.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La balena.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The whale.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La balena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The whale is near the boat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La balena è vicino alla barca.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The whale is near the boat.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La balena è vicino alla barca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The dolphin.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il delfino.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The dolphin.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il delfino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The dolphin is jumping.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il delfino salta.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The dolphin is jumping.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il delfino salta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name, including its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The walrus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tricheco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The whale.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La balena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The dolphin.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il delfino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The seal.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La foca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The penguin is swimming.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pinguino nuota.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The seals.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le foche.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The seals.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le foche.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finally, three additional wild animals: the otter, the bat, and the eagle.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The otter.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lontra.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The otter.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lontra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The otter is swimming.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lontra nuota.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The otter is swimming.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lontra nuota.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The bat.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pipistrello.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pipistrello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The bat is flying at night.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pipistrello vola di notte.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The bat is flying at night.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pipistrello vola di notte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Listen: The eagle.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’aquila.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The eagle.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’aquila.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Example: The eagle is flying above the woods.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’aquila vola sopra il bosco.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now say: The eagle is flying above the woods.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’aquila vola sopra il bosco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+A short mixed review.
+
+Give the Italian name, including its article.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pipistrello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The eagle.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’aquila.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The otter.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lontra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Bring back an earlier sentence: The seal is in the water.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La foca è nell’acqua.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Now the plural: The eagles.
+
+(pause: 1)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le aquile.
+
+(pause: 2)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Say: The eagles.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le aquile.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Final word review.
+
+The order is mixed.
+
+Give the complete Italian expression with its article.
+
+The answer comes after your pause, so try to recall it first.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The polar bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso polare.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The kangaroo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il canguro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The whale.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La balena.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The raccoon.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il procione.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The eagle.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’aquila.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wombat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vombato.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bison.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bisonte.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The reindeer.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La renna.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The emu.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’emù.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The otter.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La lontra.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The skunk.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La moffetta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The koala.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il koala.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The seal.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La foca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The grizzly bear.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso grizzly.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bat.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pipistrello.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The platypus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ornitorinco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The walrus.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il tricheco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The beaver.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il castoro.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The Arctic fox.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe artica.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The dingo.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il dingo.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The dolphin.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il delfino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The moose.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’alce.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The penguin.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il pinguino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cougar.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puma.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+Finish with short sentences.
+
+You have already heard each one.
+
+Translate during the pause, then listen to the Italian model.
+
+The longer sentences give you a little more time.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The kangaroo is jumping.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il canguro salta.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The wombat is digging.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il vombato scava.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The platypus is swimming.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’ornitorinco nuota.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The raccoon is in the garden.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il procione è in giardino.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The bison is eating grass.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il bisonte mangia l’erba.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The cougar is on the rock.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Il puma è sulla roccia.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The polar bear is walking on the ice.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’orso polare cammina sul ghiaccio.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The Arctic fox has a long tail.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La volpe artica ha la coda lunga.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The whale is near the boat.
+
+(pause: 6)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+La balena è vicino alla barca.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The eagle is flying above the woods.
+
+(pause: 4)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+L’aquila vola sopra il bosco.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+One last plural review.
+
+Say the article as well as the noun.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The koalas.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+I koala.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The platypuses.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli ornitorinchi.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The moose, more than one.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Gli alci.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+The eagles.
+
+(pause: 2)
+
+(voice: Alessandra)
+
+(narration-language: it-IT)
+
+Le aquile.
+
+(pause: 1)
+
+(voice: Jessica)
+
+(narration-language: en-US)
+
+End of Wild animals, part two.
+
+(pause: 2)
+
